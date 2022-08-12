@@ -7,4 +7,4 @@
 <p>git remote add origin (link) - link the repositor in github with git
 <p>git push -u origin main - publish on github
 <p>git clone (link) - do a clone of another repositor
-<p>git pull - uptade the clone repositor
+<p>git pull - uptade the repositor
